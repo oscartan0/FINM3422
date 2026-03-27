@@ -32,3 +32,4 @@ git clone https://github.com/<org-or-user>/finm3422.git
 cd finm3422
 
 Oscar successfully cloned the repo
+Small Change
