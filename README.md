@@ -33,3 +33,12 @@ cd finm3422
 
 Oscar successfully cloned the repo
 Small Change
+Student: Hifza successfully cloned the repo
+
+Student Oscar successfully cloned the repo.
+
+Oscar successfully cloned the repo
+
+
+Student: Dylan successfully cloned the repo.
+Oscar successfully cloned the repo
